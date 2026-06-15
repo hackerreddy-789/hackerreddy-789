@@ -1,16 +1,69 @@
-## Hi there 👋
 
-<!--
-**hackerreddy-789/hackerreddy-789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 
+Hi 👋 I'm  V.Veera Nithin Reddy
 
-Here are some ideas to get you started:
+💻 Cyber Security Enthusiast  
+🔍 Digital Forensics & Cyber Crime Investigation Learner  
+🛡️ Interested in Malware Analysis, OSINT & Incident Response  
+📚 Learning Ethical Hacking and Network Security  
+🚀 Building Cyber Security Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🛠 Skills
+
+- Digital Forensics
+- Cyber Crime Investigation
+- Linux
+- OSINT
+- Network Security
+- Malware Analysis
+- Python Basics
+- Git & GitHub
+- Wireshark
+- Autopsy
+- Nmap
+
+ ## 🔧 Tools I Use
+
+| Tool | Purpose |
+|------|----------|
+| Wireshark | Packet Analysis |
+| Autopsy | Digital Forensics |
+| Nmap | Network Scanning |
+| CSI Linux | Investigation OS |
+| FTK Imager | Evidence Collection |
+| Volatility | Memory Forensics |
+
+## 📫 Connect With Me
+
+- LinkedIn: YOUR LINK
+- Email: nithinreddynithinreddy789@gmail.com
+- instagram: cyber_security_ 789
+
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hackerreddy-789/hackerreddy-789/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/hackerreddy-789/hackerreddy-789/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hackerreddy-789.hackerreddy-789&"  />
+</div>
+
+###
+
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
+</div>
+
+###
