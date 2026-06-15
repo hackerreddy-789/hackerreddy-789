@@ -35,7 +35,7 @@ Hi 👋 I'm  V.Veera Nithin Reddy
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR LINK
+- LinkedIn: https://www.linkedin.com/in/veera-nithin
 - Email: nithinreddynithinreddy789@gmail.com
 - instagram: cyber_security_ 789
 
